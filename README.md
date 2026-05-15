@@ -1,4 +1,4 @@
-# Hi, I'm Hamdan 👋                                               ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+# Hi, I'm Hamdan 👋                                               ![](https://komarev.com/ghpvc/?username=HamdanElahi)
 I build:
 - AI SaaS Applications
 - Web Apps
@@ -8,7 +8,7 @@ I build:
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Focus                         ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamdanElahi&theme=tokyo-night)
 - AI SaaS Platform
 - Gym Web Application
 - Portfolio Development
@@ -16,7 +16,7 @@ I build:
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack                                  ![GitHub Streak](https://streak-stats.demolab.com/?user=HamdanElahi&theme=tokyonight)
 
 ### Frontend
 - React
@@ -56,13 +56,7 @@ Modern developer portfolio.
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn(https://www.linkedin.com/in/hamdanelahi/)
-- Portfolio
-- Email(hamadanelahi.org@gmail.com)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+## 📫 Connect With Me      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanElahi&layout=compact&theme=tokyonight)
+- [LinkedIn]([url](https://www.linkedin.com/in/hamdanelahi/))
+- Portfolio {Pending}
+- Email:- [hamadanelahi.org@gmail.com](mailto:hamadanelahi.hsp@gmail.com)
