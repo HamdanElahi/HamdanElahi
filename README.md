@@ -1,4 +1,4 @@
-# Hi, I'm Hamdan 👋                                               ![](https://komarev.com/ghpvc/?username=HamdanElahi)
+# Hi, I'm Hamdan 👋                                                                   ![](https://komarev.com/ghpvc/?username=HamdanElahi)
 I build:
 - AI SaaS Applications
 - Web Apps
@@ -8,7 +8,7 @@ I build:
 
 ---
 
-## 🚀 Current Focus                         ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamdanElahi&theme=tokyo-night)
+## 🚀 Current Focus                        
 - AI SaaS Platform
 - Gym Web Application
 - Portfolio Development
@@ -16,7 +16,10 @@ I build:
 
 ---
 
-## 🛠 Tech Stack                                  ![GitHub Streak](https://streak-stats.demolab.com/?user=HamdanElahi&theme=tokyonight)
+ ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamdanElahi&theme=tokyo-night)
+ 
+
+## 🛠 Tech Stack                                  
 
 ### Frontend
 - React
@@ -37,9 +40,13 @@ I build:
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=HamdanElahi&theme=tokyonight)
+
+
+
+
+## 📊 GitHub Stats
 
 ---
 
@@ -55,8 +62,12 @@ AI powered learning SaaS platform.
 Modern developer portfolio.
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamdanElahi&show_icons=true&theme=tokyonight)
 
-## 📫 Connect With Me      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanElahi&layout=compact&theme=tokyonight)
-- [LinkedIn]([url](https://www.linkedin.com/in/hamdanelahi/))
+
+## 📫 Connect With Me     
+- [LinkedIn](https://www.linkedin.com/in/hamdanelahi/)
 - Portfolio {Pending}
 - Email:- [hamadanelahi.org@gmail.com](mailto:hamadanelahi.hsp@gmail.com)
+
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanElahi&layout=compact&theme=tokyonight)
