@@ -70,4 +70,4 @@ Modern developer portfolio.
 - Portfolio {Pending}
 - Email:- [hamadanelahi.org@gmail.com](mailto:hamadanelahi.hsp@gmail.com)
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanElahi&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanElahi&layout=compact&theme=tokyonight)
