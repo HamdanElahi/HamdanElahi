@@ -62,15 +62,9 @@ AI powered learning SaaS platform.
 Modern developer portfolio.
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamdanElahi&show_icons=true&theme=tokyonight" />
-</p>
 
 ## 📫 Connect With Me     
 - [LinkedIn](https://www.linkedin.com/in/hamdanelahi/)
 - Portfolio {Pending}
 - Email:- [hamadanelahi.org@gmail.com](mailto:hamadanelahi.hsp@gmail.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanElahi&layout=compact&theme=tokyonight" />
-</p>
