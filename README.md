@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/08a6cb17-84b2-41a7-ae70-42ea0da1c228" /># Hi, I'm Hamdan 👋                                               ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+# Hi, I'm Hamdan 👋                                               ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 I build:
 - AI SaaS Applications
 - Web Apps
@@ -57,7 +57,7 @@ Modern developer portfolio.
 ---
 
 ## 📫 Connect With Me
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7a2ab7f5-fc4b-4e6b-a880-bb2c7301ec70" />LinkedIn(https://www.linkedin.com/in/hamdanelahi/)
+- LinkedIn(https://www.linkedin.com/in/hamdanelahi/)
 - Portfolio
 - Email(hamadanelahi.org@gmail.com)
 
